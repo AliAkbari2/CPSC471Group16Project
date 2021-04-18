@@ -1,2 +1,2 @@
 # CPSC471Group16Project
-Android Application connected to mysql server using xamp/myphpadmin
+Android Application connected to MySQL server using XAMPP/myphpadmin
